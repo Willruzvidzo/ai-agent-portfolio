@@ -1,7 +1,8 @@
 # 🧠 AI Agent Portfolio
 
-Welcome to my collection of intelligent AI agents designed to streamline workflows, enhance productivity, and solve real-world business challenges. Each agent is crafted to automate specific tasks and deliver actionable insights, helping individuals and businesses work smarter, not harder.
+Welcome to my portfolio. I design and build AI agents and automation systems that solve practical business problems. Every build here was created with real client use cases in mind, from automating back-office tasks to speeding up content workflows.
 
+These are not experiments. They are working systems that can be deployed, adapted, and scaled.
 ---
 
 ## 🚀 Featured AI Agents
